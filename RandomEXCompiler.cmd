@@ -1,1 +1,1 @@
-@echo off & title Compiler & pyinstaller.exe -D --version-file program_info.txt -i .\..\..\resources\favicon.ico "RandomEX.py" & pause
+@echo off & title Compiler & pyinstaller.exe -D --version-file program_info.txt -i .\..\..\resources\py.ico "RandomEX.py" & pause
